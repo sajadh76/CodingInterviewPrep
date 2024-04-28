@@ -1,1 +1,3 @@
-The task is to find the leaders in a list, where a leader is defined as an element that is greater than all the elements to its right. For example, in the list [7, 4, 8, 2, 9, 10], the only leader is 10, as it is greater than all the elements to its right (there are no elements to its right). 
+The task is to find the leaders in a list, where a leader is defined as an element that is greater than all the elements to its right.
+For example, in the list [7, 4, 8, 2, 9, 10], the only leader is 10, as it is greater than all the elements to its right
+(there are no elements to its right). 
