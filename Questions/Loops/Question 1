@@ -1,3 +1,5 @@
+Number of buildings facing the sun
+
 Given an array representing building heights: `[7, 4, 8, 2, 9, 10]`
 We want to count how many buildings have a clear view of the sunrise/sunset, meaning they're taller than all buildings to their left.
 
