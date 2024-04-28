@@ -1,0 +1,2 @@
+Write a code that takes a list as input and returns the maximum and minimum values in the list.
+For example, given the list [7, 4, -9, -2, -8, 6, 5], the code should output -9 as the minimum and 7 as the maximum.
