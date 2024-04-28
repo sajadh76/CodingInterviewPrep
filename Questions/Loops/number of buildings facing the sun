@@ -1,0 +1,12 @@
+Given an array representing building heights: `[7, 4, 8, 2, 9, 10]`
+
+We want to count how many buildings have a clear view of the sunrise/sunset, meaning they're taller than all buildings to their left.
+
+- Building 1: Height 7 → Clear view (1)
+- Building 2: Height 4 → No clear view
+- Building 3: Height 8 → Clear view (2)
+- Building 4: Height 2 → No clear view
+- Building 5: Height 9 → Clear view (3)
+- Building 6: Height 10 → Clear view (4)
+
+Thus, there are 4 buildings with a clear view.
