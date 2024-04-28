@@ -2,13 +2,6 @@
 
 Welcome to the Data Structures and Algorithms Interview Prep repository! This repository is designed to help you ace technical coding interviews by providing a curated collection of common data structures and algorithms questions, along with their solutions. Whether you're preparing for a software engineering job interview or just looking to sharpen your problem-solving skills, you'll find valuable resources here.
 
-### Contents
-
-1. [About](#about)
-2. [Questions](#questions)
-3. [Solutions](#solutions)
-4. [Contributing](#contributing)
-
 ### About
 
 In today's competitive job market, technical interviews often include questions related to data structures and algorithms. Mastering these concepts not only enhances your problem-solving abilities but also increases your chances of landing your dream job in the tech industry. This repository aims to provide a comprehensive collection of such questions along with detailed explanations and efficient solutions.
