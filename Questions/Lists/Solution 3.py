@@ -1,4 +1,4 @@
-first_list = [5, 3, 0, 7, 7, 7, 7, 8, 0, 10]
+first_list = [5, 3, 0, 7, 7, 7, 7, 8, 0, 10, 11]
 my_dict = {}
 max_value = 0
 
